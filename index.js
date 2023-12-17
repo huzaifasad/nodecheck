@@ -12,7 +12,7 @@ app.listen(1000, () => {
 
 app.use(
   cors({
-    origin: ["https://backendbazar-pk.vercel.app"],
+    origin: ["https://nodecheck-blond.vercel.app/"],
     methods: ["POST", "GET"],
     credentials: true,
   })
