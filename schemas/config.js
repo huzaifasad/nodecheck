@@ -1,3 +1,3 @@
 const mongoose=require('mongoose')
 
-mongoose.connect('mongodb://127.0.0.1:27017/Bazaar')
+mongoose.connect('mongodb+srv://huzaifa084567:12345@cluster0.wpihnwn.mongodb.net/')
